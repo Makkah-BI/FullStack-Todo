@@ -241,6 +241,28 @@ Potential future features:
 
 ---
 
+## Live Demo
+
+Frontend: https://full-stack-todo-seven-steel.vercel.app
+
+Backend API: https://fullstack-todo-a5kd.onrender.com
+
+### Demo Credentials
+
+Create an account or register a new user to test the application.
+
+### Features
+
+* User Authentication (JWT)
+* Create, Edit, Delete Todos
+* Mark Todos as Complete
+* Priority Levels (Low, Medium, High)
+* Due Dates
+* Dark Mode
+* Responsive Design
+* PostgreSQL Database with Prisma ORM
+* Full Deployment with Vercel, Render, and Neon
+
 # Author
 
 **Makkah Ismael**
